@@ -4,8 +4,10 @@
 ---
 ### <p>Project 1<br>
 #### Collaborators: Anna Sanchez, Jennifer Reyna and Shondeen Hechter<p>
+  
+![WHO](images/who-emblem.png)
 
-<br />This project utilized a [dataset](https://www.kaggle.com/kumarajarshi/life-expectancy-who) from kaggle.com to explore life expectancy in developing countries. The project collaborators specifically wanted to look at how certain factors such as early-life vaccinations, schooling and GDP affected life expectancy. A research hypothesis was proposed as well as three specific research questions: 
+<br />This project utilized a [dataset](https://www.kaggle.com/kumarajarshi/life-expectancy-who) from kaggle.com to explore life expectancy in developing countries. The dataset was complied from information on the WHO and United Nations websites. The project collaborators specifically wanted to look at how certain factors such as early-life vaccinations, schooling and GDP affected life expectancy. A research hypothesis was proposed as well as three specific research questions: 
 ><br />*Hypothesis - Average life expectancy amongst countries is affected by socioeconomic factors such as early vaccination, GDP, and schooling.*
 <br />Research Q1 - Do early life vaccinations affect average life expectancy in developing countries?
 <br />Research Q2 - Does increased schooling positively correlated with increased life expectancy?
@@ -15,4 +17,5 @@
 <br />
 <br />Further analysis and discussion is included in the slideshow which can be viewed [here] for presentation purposes.
 <br /> 
-<br />
+<br />*Citations*
+<br />Kumar Rajarshi. (2018). Life Expectancy (WHO)(1)[Dataset]. Available from Kaggle Web site: https://www.kaggle.com/kumarajarshi/life-expectancy-who
