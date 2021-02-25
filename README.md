@@ -17,5 +17,7 @@
 <br />
 <br />Further analysis and discussion is included in the slideshow which can be viewed [here] for presentation purposes.
 <br /> 
-<br />*Citations*
+<br /> 
+<br /> 
+<br />Dataset Citation:
 <br />Kumar Rajarshi. (2018). Life Expectancy (WHO)(1)[Dataset]. Available from Kaggle Web site: https://www.kaggle.com/kumarajarshi/life-expectancy-who
