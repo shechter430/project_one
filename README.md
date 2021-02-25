@@ -13,6 +13,6 @@
 <br />
 <br />In order to answer these questions and test the hypothesis, a mulitple regressions were ran comparing variables listed in the hypothesis. All regressions showed mild to strong correlations between variables therefore supporting the research questions and hypothesis.  
 <br />
-<br />[slideshow](https://docs.google.com/presentation/d/1QfMZp_f3LddVBJctPJZ4yTX2lgdM9VqzjcB338pkmKI/edit?usp=sharing) for presentation purposes.
-<br />A copy of the slideshow is also included in this repository if the google slides are not available. 
+<br />Further analysis and discussion is included in the slideshow which can be viewed [here] for presentation purposes.
+<br /> 
 <br />
