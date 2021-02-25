@@ -16,7 +16,7 @@
 <br />In order to answer these questions and test the hypothesis, a mulitple regressions were ran comparing variables listed in the hypothesis. All regressions showed mild to strong correlations between variables therefore supporting the research questions and hypothesis.  
 <br />
 <br />
-<br />Further analysis and discussion can be found in the [slideshow](slideshow/prj1-group8.pdf) folder. 
+<br />Further analysis and discussion can be found in the slideshow folder. 
 <br /> 
 <br /> 
 <br />Dataset Citation:
